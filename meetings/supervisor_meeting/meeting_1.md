@@ -77,5 +77,3 @@ Discuss the communication plan with clients and stakeholders.
 ## Next Meeting
 08/08/2024, 17:15 - 20:15
 
-
-*Minutes Prepared by Xinyi Yuan*
