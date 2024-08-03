@@ -21,7 +21,7 @@
 | Scrum master       | Xinyi Yuan   |
 | Design lead        | Runbing Wang |
 | Quality Assurance  | Yuxing Huang |
-| Quality Assurance  | Sixuan Chen  |
+| Quality Assurance  |  <img src="https://github.com/lollyluan/Dutch-Election-Game-Simulation/blob/main/profile/Sixuan_Chen.JPG" alt="Sixuan Chen" width="100"> <br /> Sixuan Chen <br /> sixchen1@student.unimelb.edu.au  |
 | Architecture       | Tongjia Hu   |
 | Development lead   | Yingyi Luan  |
 | UX Design          |  <img src="https://github.com/lollyluan/Dutch-Election-Game-Simulation/blob/main/profile/Wenyao_Wang_profile.jpg" alt="Wenyao Wang" width="100"> <br /> Wenyao Wang <br /> WENYAOW1@student.unimelb.edu.au |
