@@ -26,7 +26,7 @@
 | Development lead   | Yingyi Luan  |
 | UX Design          |  <img src="https://github.com/lollyluan/Dutch-Election-Game-Simulation/blob/main/profile/Wenyao_Wang_profile.jpg" alt="Wenyao Wang" width="100"> <br /> Wenyao Wang <br /> WENYAOW1@student.unimelb.edu.au |
 | UI Design          | Wenquan Wan  |
-| Testing            | Jiayuan Li   |
+| Testing            | <img src="https://github.com/lollyluan/Dutch-Election-Game-Simulation/blob/main/profile/Jiayua _Li.jpg" alt="Jiayua Li" width="100"> <br />Jiayuan Li<br /> jiayuan5@student.unimelb.edu.au|
 
 
 
