@@ -15,8 +15,6 @@
 - [x] Wenyao Wang
 
 ## Backlog
-The list of things we want to accoplish in this sprint
-
 - Requiremnt eliciation
 - Organize project background with more details 
 - Draw the motivational model
@@ -24,8 +22,6 @@ The list of things we want to accoplish in this sprint
 - Develop user stories
 
 ## Sprint goal
-Why are we implementing these backlog items?
-
 - Refinement of the project background
 - Completion of reqiurements
 
@@ -55,7 +51,7 @@ Why are we implementing these backlog items?
 2. What will you do today?
 3. Anything blocking your progress?
 
-### Review & Retrospective
+## Review & Retrospective
 - **Sprint Review Date & Time:** 31 August
 - **Agenda:**
   - Review of sprint goals and outcomes
