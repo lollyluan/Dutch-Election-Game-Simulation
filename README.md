@@ -23,7 +23,7 @@
 | Quality Assurance  | <img src="https://github.com/lollyluan/Dutch-Election-Game-Simulation/blob/main/profile/Yuxing_Huang.jpg"  alt="Yuxing Huang" width="100"> <br /> Yuxing Huang <br /> yuxinhuang1@student.unimelb.edu.au|
 | Quality Assurance  |  <img src="https://github.com/lollyluan/Dutch-Election-Game-Simulation/blob/main/profile/Sixuan_Chen.JPG" alt="Sixuan Chen" width="100"> <br /> Sixuan Chen <br /> sixchen1@student.unimelb.edu.au  |
 | Architecture       | Tongjia Hu   |
-| Development lead   | Yingyi Luan  |
+| Development lead   | <img src="https://github.com/lollyluan/Dutch-Election-Game-Simulation/blob/main/profile/Yingyi_Luan.JPG"  alt="Yingyi Luan" width="100"> <br /> Yingyi Luan <br /> luanyl@student.unimelb.edu.au  |
 | UX Design          |  <img src="https://github.com/lollyluan/Dutch-Election-Game-Simulation/blob/main/profile/Wenyao_Wang_profile.jpg" alt="Wenyao Wang" width="100"> <br /> Wenyao Wang <br /> WENYAOW1@student.unimelb.edu.au |
 | UI Design          | Wenquan Wan  |
 | Testing            | <img src="https://github.com/lollyluan/Dutch-Election-Game-Simulation/blob/main/profile/Jiayua _Li.jpg" alt="Jiayua Li" width="100"> <br />Jiayuan Li<br /> jiayuan5@student.unimelb.edu.au|
