@@ -17,7 +17,7 @@
 
 | Role               | Member       |
 | -------------------| -------------|
-| Product owner      | Yuchen Dong  |
+| Product owner      | <img src="https://github.com/lollyluan/Dutch-Election-Game-Simulation/blob/main/profile/Yuchen_Dong.jpg"  alt="Yuchen Dong" width="100"> <br /> Yuchen Dong <br /> yuchdong@student.unimelb.edu.au|
 | Scrum master       | Xinyi Yuan   |
 | Design lead        | Runbing Wang |
 | Quality Assurance  | <img src="https://github.com/lollyluan/Dutch-Election-Game-Simulation/blob/main/profile/Yuxing_Huang.jpg"  alt="Yuxing Huang" width="100"> <br /> Yuxing Huang <br /> yuxinhuang1@student.unimelb.edu.au|
