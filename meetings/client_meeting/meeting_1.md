@@ -17,7 +17,7 @@ Time: 06/08/2024, 14:00 - 14:45
 - Supervisor
   - [X] Mingye Li 
 - Client
-  - [X] Mingye Li 
+  - [X] Bec Devitt
 
 | Agenda  | Time(min) | Description  | Action   |
 | ----- | --- | --- | ----- |
