@@ -8,14 +8,6 @@
 | --- | --- | 
 | **In-Scope** |  |
 
-### Stakeholders
-
-| **Roles** | **Description** |
-| --- | --- | 
-| **Client** |  |
-| **Tutor** |  |
-| **Student** |  |
-| **Development Team** |  |
 
 ## Elicitation Activities
 
