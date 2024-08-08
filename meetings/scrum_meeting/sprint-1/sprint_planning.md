@@ -8,7 +8,7 @@
 - [x] Xinyi Yuan (Kerr)
 - [x] Wenquan Wan
 - [x] Yingyi Luan (Lolly)
-- [ ] Sixuan Chen
+- [x] Sixuan Chen
 - [x] Tongjia Hu
 - [x] Runbing Wang
 - [x] Jiayuan Li
