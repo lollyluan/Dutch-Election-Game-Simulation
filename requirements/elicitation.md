@@ -12,7 +12,7 @@
 ## Elicitation Activities
 
 + **Group discussion**
-+ Purpose and Platform:
+++ Purpose and Platform:
 Engage the project team in a discussion to finalize decisions on the game's target users and the educational purpose. This will help tailor the gameplay and content to the identified user base.
 Discuss the suitability of a desktop app versus a web-based platform, considering the advantages of each based on feedback from the team and client’s supervisor.
 - Login Methods:
