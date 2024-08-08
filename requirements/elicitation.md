@@ -31,6 +31,47 @@
 | Development Team  | All of the team           | Executes the development tasks, writes code, integrates features, and ensures that the product meets technical requirements and quality standards. | Collabor                                                     |
 
 ## Question And Strategies
+### Strategies:
+
++ **The easy ones go first**: Dig the interviewee’s requirement from broad to narrow, from shallow to deep.
++ **Ask open-ended questions and probe**: Ask questions that can elicit detailed responses，allowing for better understanding of the requirements.
++ **Record and Organize information**: To ensure that the information provided by interviewees is documented accurately and clearly.
++ **Consider from the perspective of other participants**: Prepare questions from other stakeholders’ views to gather diverse perspectives on requirements.
++ **Use Scenarios and Case Studies**: Encourage interviewees to provide specific scenarios and present cases to them can help to enforce the communication and get a better understanding.
+
+### Questions List :
+
++ What are the reasons/advantages that prompt the idea for playing this game online rather than face2face 
+
++ Who are the target users? Students? What purpose do you want to use this game for (Educational purposes or Commercial purposes) 
+
++ What platform should the software support? (Website, desktop app or smart-phone app) 
+
++ Do you prefer your game to allow players to join matches anonymously by scanning a QR code, or would you prefer players to register an account and log in to participate in the game?
+
++ How do players communicate with each other in real time? Does our product need to contain a chat box/voice box/real-time voice conversation?Do we need functionality to save the current game state and load a previously saved game?
+
++ What overall visual style and theme do you envision for the game? 
+
++ Are there specific usability standards to follow to ensure the interface is user-friendly for everyone? How should the interface support users with special needs, such as color blindness or visual impairments?
+
++ Does it need a player facilitator for the operation of this game? How to determine whether an argument is valid in the Pros and Cons system if the system has to be the facilitator?
+
++ Do you need a system design for specific game achievements to increase player engagement and repeat play?
+
++ What range of player count do you prefer for each game session?
+
++ What are the specific actions available to players, and what icons will represent these actions?
++ What are the objectives for each player/role? Can players customize their roles (including the objectives) or actions before the game starts?
++ Are there specific brand colors or elements that should be incorporated?
++ How to form a government, what is the "off-table" negotiation. What is "radical shift to the right", are there any conditions to determine whether it is shifted to the right
++ Does the game have any unit / troop movements 
++ Should we have a strict limitation of the game time, each round, each player 
++ How should the voting system work? How to decide the player gain an additional vote, is it by the end of player turn or before Election round?
++ Do players play forces such as Hofstadt Network and Dutch Government, or party leaders such as Mark Rutte and Lodewijk Asscher?
++ Does every player have to raise an argument in each turn in a specific order? Or just one argument for each turn (which player is responsible for proposing it). How do the results of arguments affect the final vote?
+
+
 
 ## After Elicitation (Outputs And Follow-up Actions)
 ### Follow-up actions
