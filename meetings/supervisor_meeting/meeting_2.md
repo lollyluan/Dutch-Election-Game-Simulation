@@ -26,36 +26,51 @@ Time: 8/08/2024, 17:15 - 20:15
 ### 1. Sprint 1,2,3 Planing
 
 #### sprint1:
-  motivation model (Need explanation)
-  persona (Need explanation, such as the relation between different people club)
-  ER diagram
-  usecase
-  userstory
-  technology(need justification
-  low-fi prototype
+  1.motivation model (Need explanation)
+  
+  2.persona (Need explanation, such as the relation between different people club)
+  
+  3.ER diagram
+  
+  4.usecase
+  
+  5.userstory
+  
+  6.technology(need justification
+  
+  7.low-fi prototype
 
 #### sprint2:
-  class desigin
-  decide coding criteria
-  high-fi prototype
+  1.class desigin
+  
+  2.decide coding criteria
+  
+  3.high-fi prototype
 
 #### sprint3:
-  coding(focus more on frontend)
-  CI CD
+  1.coding(focus more on frontend)
+  
+  2.CI CD
 
 ### 2. Partial Function Discussion
-  Whether need login function (related with save function，must needed if save function needed)
-  Whether need save function (preferably needed)
+  1.Whether need login function (related with save function，must needed if save function needed)
+  
+  2.Whether need save function (preferably needed)
 
 
 
 ### 3. Testing discussion
-  Need code revirew
-  Need acceptance test(screenshoot needed)
-  Need code test
-  mock data
-  exhausted testing(test as more senarios as passible)
-  backend blackbox testing
+  1.Need code revirew
+  
+  2.Need acceptance test(screenshoot needed)
+  
+  3.Need code test
+  
+  4.mock data
+  
+  5.exhausted testing(test as more senarios as passible)
+  
+  6.backend blackbox testing
 
 
 
