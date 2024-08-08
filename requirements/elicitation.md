@@ -6,7 +6,7 @@
 
 | **Project Overview** | This project aiming to develop the "Terror in Tilburg" board game using streamlined computer simulation. The object is to maintain the game's role-play and storytelling dynamics while making it more accessible and interactive for players. |
 | --- | --- | 
-| **In-Scope** | Develop the "Terror of Tilburg" computer simulation game, keep the role playing and storyline, design a user-friendly interface, support multi-player mode, simplify the probability system, reduce the game round to 4 and add election mechanism  |
+| **In-Scope** | Develop the "Terror of Tilburg" computer simulation game, keep the role playing and storyline, design a user-friendly interface, support multi-player mode, simplify the probability system, reduce the game round to 4 and add election mechanism.  |
 
 
 ## Elicitation Activities
