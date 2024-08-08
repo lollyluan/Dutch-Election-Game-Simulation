@@ -11,14 +11,14 @@
 
 ## Elicitation Activities
 
-- Group discussion
-  **Purpose and Platform:**
+- **Group discussion**
+- Purpose and Platform:
 Engage the project team in a discussion to finalize decisions on the game's target users and the educational purpose. This will help tailor the gameplay and content to the identified user base.
 Discuss the suitability of a desktop app versus a web-based platform, considering the advantages of each based on feedback from the team and client’s supervisor.
-  **Login Methods:**
+- Login Methods:
 Decide whether to allow anonymous access through QR codes or require user registration. This involves evaluating the pros and cons, such as privacy concerns versus ease of access.
-- Interview
-  **Client and Supervisor:**
+- **Interview**
+- Client and Supervisor:
 Conduct interviews with the client and possibly the client’s supervisor to get a deeper understanding of their expectations for the visual style and usability standards.
 Inquire about their views on the need for real-time communication features and the extent of functionality for saving game states.
 
