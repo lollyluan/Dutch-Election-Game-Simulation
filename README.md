@@ -6,10 +6,10 @@
 
 ## Stakeholders
 
-| Name | Role | Email |
-| ---- | ---- | ----- |
-|      |      |       |
-|      |      |       |
+| Name       | Role   | Email                   |
+| ---------- | ------ | ----------------------- |
+| Bec Devitt | client | rebeccadevitt@gmail.com |
+|            |        |                         |
 
 ## Team Members
 
