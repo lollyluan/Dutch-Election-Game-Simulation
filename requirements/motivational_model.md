@@ -5,6 +5,9 @@ The motivational model for the "Terror in Tilburg" project is designed to outlin
 
 The model highlights how the interactive and engaging nature of the game will motivate students to actively participate in the learning process, enhancing their understanding of complex geopolitical scenarios and fostering critical thinking. It also emphasizes the tutor’s role in using the software as a tool to make lessons more dynamic and effective.
 
+## Diagram
+![Motivational Model Diagram](https://github.com/lollyluan/Dutch-Election-Game-Simulation/blob/Motivational-Model/requirements/diagrams/motivational-model-diagram.jpeg)
+
 ## Who/Do/Be/Feel
 
 ### Who
