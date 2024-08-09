@@ -9,19 +9,18 @@
 | Name       | Role   | Email                   |
 | ---------- | ------ | ----------------------- |
 | Bec Devitt | client | rebeccadevitt@gmail.com |
-|            |        |                         |
 
 ## Team Members
 
-| Name          | Email                                   | Profile                                                                                                                                                 | Postition                |
+| Name           | Email                                  | Profile                                                                                                                                              | Postition           |
 | -------------- | -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
-| Yuchen Dong    | yuchdong@student.unimelb.edu.au        | <img src="https://github.com/lollyluan/Dutch-Election-Game-Simulation/blob/main/profile/Yuchen_Dong.jpg"  alt="Yuchen Dong" width="100">             | Product owner       |
-| Xinyi Yuan     |                                        |                                                                                                                                                      | Scrum master        |
-| Runbing Wang   |                                        |                                                                                                                                                      | Design lead         |
+| Yuchen Dong    | yuchdong@student.unimelb.edu.au        | <img src="https://github.com/lollyluan/Dutch-Election-Game-Simulation/blob/main/profile/Yuchen_Dong.jpg"  alt="Yuchen Dong" width="100">             | Product Owner       |
+| Xinyi Yuan     | yuaxy3@student.unimelb.edu.au          | <img src="https://github.com/lollyluan/Dutch-Election-Game-Simulation/blob/main/profile/Xinyi_Yuan.jpg"  alt="Xinyi Yuan" width="100">               | Scrum Master        |
+| Runbing Wang   |                                        |                                                                                                                                                      | Design Lead         |
 | Yuxing Huang   | yuxinhuang1@student.unimelb.edu.au     | <img src="https://github.com/lollyluan/Dutch-Election-Game-Simulation/blob/main/profile/Yuxing_Huang.jpg"  alt="Yuxing Huang" width="100">           | Quality Assurance   |
 | Sixuan Chen    | sixchen1@student.unimelb.edu.au        | <img src="https://github.com/lollyluan/Dutch-Election-Game-Simulation/blob/main/profile/Sixuan_Chen.JPG" alt="Sixuan Chen" width="100">              | Quality Assurance   |
 | Tongjia Hu     |                                        |                                                                                                                                                      | Architecture        |
-| Yingyi Luan    | luanyl@student.unimelb.edu.au          | <img src="https://github.com/lollyluan/Dutch-Election-Game-Simulation/blob/main/profile/Yingyi_Luan.JPG"  alt="Yingyi Luan" width="100">             | Development lead    |
+| Yingyi Luan    | luanyl@student.unimelb.edu.au          | <img src="https://github.com/lollyluan/Dutch-Election-Game-Simulation/blob/main/profile/Yingyi_Luan.JPG"  alt="Yingyi Luan" width="100">             | Development Lead    |
 | Wenyao Wang    | WENYAOW1@student.unimelb.edu.au        | <img src="https://github.com/lollyluan/Dutch-Election-Game-Simulation/blob/main/profile/Wenyao_Wang_profile.jpg" alt="Wenyao Wang" width="100">      | UX Design           |
 | Wenquan Wan    |                                        |                                                                                                                                                      | UI Design           |
 | Jiayuan Li     | jiayuan5@student.unimelb.edu.au        | <img src="https://github.com/lollyluan/Dutch-Election-Game-Simulation/blob/main/profile/Jiayua _Li.jpg" alt="Jiayua Li" width="100">                 | Testing             |
